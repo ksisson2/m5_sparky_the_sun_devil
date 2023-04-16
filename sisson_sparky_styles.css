@@ -54,7 +54,7 @@ a:hover {
     color: #fff;
     background-color: #8c1d40;
 }
-nav link{
+nav a {
     display: block;
     background-color: #8c1d40;
     color: #fff;
@@ -86,7 +86,7 @@ a:hover{
     color: #fff;
     padding: 4px;
 } 
-main link{
+main a{
     color: #8c1d40;
     font-weight: bold;
 }
@@ -116,7 +116,7 @@ address{
 a:hover {
     color: #ffc627;
 }
-footer link{
+footer a{
     color: #fff;
     display: inline-block;
     padding-top: 8px;
